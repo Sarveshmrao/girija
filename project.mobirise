@@ -53,7 +53,7 @@
         {
           "alias": false,
           "_styles": {
-            "min-height": "80px",
+            "min-height": "100px",
             ".brand-name": {
               "color": "@primaryColor",
               "margin": "0"
